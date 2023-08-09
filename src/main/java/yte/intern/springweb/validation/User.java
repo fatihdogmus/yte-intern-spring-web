@@ -1,9 +1,9 @@
 package yte.intern.springweb.validation;
 
+import jakarta.validation.constraints.*;
 import lombok.Getter;
 import lombok.Setter;
 
-import javax.validation.constraints.*;
 import java.time.LocalDateTime;
 
 @Getter
